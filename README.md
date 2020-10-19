@@ -2,6 +2,17 @@
 
 Material Design music player for Android music lovers
 
+## Table of contents
+- [Differences between Metro and RetroMusicPlayer](#differences-between-metro-and-retromusicplayer)
+- [Screenshots](#screenshots)
+    - [App Themes](#app-themes)
+    - [Player screen](#player-screen)
+    - [9+ Now playing themes](#9-now-playing-themes)
+    - [Navigation never made easier](#-navigation-never-made-easier)
+    - [Colorful](#-colorful)
+    - [Home](#-home)
+    - [Included Features](#-included-features)
+    - [License](#%EF%B8%8F-license)
 
 ## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
 - Google Play libraries removed (fully libre)
