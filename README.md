@@ -3,12 +3,11 @@
 Material Design music player for Android music lovers
 
 
-## Differences between RetroMusicPlayer and Metro
-|Metro|Retro|
-|:---:|:---:|
-|Google Play libraries removed|Available in Play Store|
-|Pro features for free|Paid pro version in play store|
-|Bug fixes||
+## Differences between Metro and [RetroMusicPlayer](https://github.com/h4h13/RetroMusicPlayer)
+- Google Play libraries removed (fully libre)
+- Pro features available for free
+- Bug fixes
+- Minor differences in UI
 
 ## Screenshots
 ### App Themes
